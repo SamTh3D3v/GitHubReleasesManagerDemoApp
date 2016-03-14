@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace GitHubReleasesManagerDemeApp.Properties
+namespace GitHubReleasesManagerDemoApp.Properties
 {
 
 

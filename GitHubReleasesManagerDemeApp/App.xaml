@@ -1,7 +1,7 @@
-﻿<Application x:Class="GitHubReleasesManagerDemeApp.App"
+﻿<Application x:Class="GitHubReleasesManagerDemoApp.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:GitHubReleasesManagerDemeApp"
+             xmlns:local="clr-namespace:GitHubReleasesManagerDemoApp"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
